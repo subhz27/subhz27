@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Sad%20Rain%20GIF.gif" width="700">
+  <img src="Sad%20Rain%20GIF.gif" height=100 width="300">
 </p>
 
 
