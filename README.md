@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Subh
 
+**AI/ML learner | Python enthusiast | Building things and figuring out how they work.**
 
-**subhz27/subhz27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-___
-Here are some ideas to get you started:
+Currently focused on **Artificial Intelligence & Machine Learning**, while strengthening my foundations in Python, data analysis, and model building.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Tools & Technologies
 
+<p>
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,seaborn,scikit-learn,tensorflow,keras,pytorch" />
+</p>
+
+### Currently Learning
+
+**Machine Learning → Deep Learning → Generative AI**
+
+> Learning. Building. Improving.
