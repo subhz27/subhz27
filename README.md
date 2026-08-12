@@ -6,8 +6,6 @@
 
 
 # Hey, I'm Subh.
-___
-
 
 **AI/ML learner focused on understanding, building, and improving.**
 
