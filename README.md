@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="Sad%20Rain%20GIF.gif" width="700">
+</p>
+
+
+
 # Hey, I'm Subh.
 
 **AI/ML learner focused on understanding, building, and improving.**
