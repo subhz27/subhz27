@@ -1,17 +1,32 @@
-# Hi, I'm Subh
+# Hey, I'm Subh.
 
-**AI/ML learner | Python enthusiast | Building things and figuring out how they work.**
+**AI/ML learner focused on understanding, building, and improving.**
 
-Currently focused on **Artificial Intelligence & Machine Learning**, while strengthening my foundations in Python, data analysis, and model building.
+Currently working through **Artificial Intelligence & Machine Learning**, with a focus on building strong foundations in **Python, data analysis, machine learning, and deep learning**.
 
-### Tools & Technologies
+### `what I'm working with`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,seaborn,scikit-learn,tensorflow,keras,pytorch" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="38" title="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="38" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="38" title="Matplotlib"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="38" title="Scikit-learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="38" title="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="38" title="Keras"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="38" title="PyTorch"/>
 </p>
 
-### Currently Learning
+### `currently learning`
 
 **Machine Learning → Deep Learning → Generative AI**
 
-> Learning. Building. Improving.
+### `a little about me`
+
+I like understanding **how things work**, not just memorizing how to use them.
+
+I'm learning by **studying, experimenting, building projects, and breaking things occasionally.**
+
+---
+
+**Learning in public. Building quietly.**
